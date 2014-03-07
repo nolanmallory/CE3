@@ -17,5 +17,7 @@ The above simulation is very similar to the Moore as most of the code is identic
 
 
 Answers:
+
 1.50 MHz is equal to 20 ns cycle length
+
 2.Synchronous, dependent on the clock
